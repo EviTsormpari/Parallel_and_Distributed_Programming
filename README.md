@@ -1,4 +1,4 @@
-#  Java Exercises for Parallel and Distributed Computing
+#  Java Exercises for Parallel and Distributed Programming
 This repository contains independent exercises related to parallel and distributed programming.
 
 ## 1. Contents

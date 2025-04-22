@@ -3,10 +3,10 @@ This repository contains independent exercises related to parallel and distribut
 
 ## Contents
 ### Parallel Programming
-Static Distribution
-Cyclic Distribution
-Dynamic Distribution
-Mutual Exclusion
+- Static Distribution
+- Cyclic Distribution
+- Dynamic Distribution
+- Mutual Exclusion
 
 ### Distributed Programming
 Simple Server

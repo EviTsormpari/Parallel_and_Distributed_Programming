@@ -21,3 +21,14 @@ This repository contains independent exercises related to parallel and distribut
 ## Requirements
 - Java Development Kit (JDK) version 8 or newer
 - Development Enviroment (IDE) such as Intellij IDEA, Eclipse or Visual Studio Code
+
+## 5. Contributing
+If you have ideas for improvements or new features, please submit a pull request or open an issue.
+Create your own fork of the project.
+Make a new branch for your feature or bug fix.
+Run tests to ensure the app works as expected.
+Submit a Pull Request. Provide a clear description of your changes and any relevant context.
+
+## License
+LearnSwift is licensed under the MIT License. See the file LICENSE for more information.
+

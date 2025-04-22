@@ -30,5 +30,5 @@ Run tests to ensure the app works as expected.
 Submit a Pull Request. Provide a clear description of your changes and any relevant context.
 
 ## License
-LearnSwift is licensed under the MIT License. See the file LICENSE for more information.
+These exercises are licensed under the MIT License. See the file LICENSE for more information.
 

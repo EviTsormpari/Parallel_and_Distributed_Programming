@@ -9,15 +9,15 @@ This repository contains independent exercises related to parallel and distribut
 - Mutual Exclusion
 
 ### Distributed Programming
-Simple Server
-Multithreaded Server
-Socket Programming with TCP
-Remote Procedure Call (RPC)
+- Simple Server
+- Multithreaded Server
+- Socket Programming with TCP
+- Remote Procedure Call (RPC)
 
 ### Protocols
-Client-Server
-Master-Slave
+- Client-Server
+- Master-Slave
 
 ## Requirements
-Java Development Kit (JDK) version 8 or newer
-Development Enviroment (IDE) such as Intellij IDEA, Eclipse or Visual Studio Code
+- Java Development Kit (JDK) version 8 or newer
+- Development Enviroment (IDE) such as Intellij IDEA, Eclipse or Visual Studio Code

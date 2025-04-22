@@ -1,7 +1,7 @@
 #  Java Exercises for Parallel and Distributed Computing
 This repository contains independent exercises related to parallel and distributed programming.
 
-## Contents
+## 1. Contents
 ### Parallel Programming
 - Static Distribution
 - Cyclic Distribution
@@ -18,11 +18,11 @@ This repository contains independent exercises related to parallel and distribut
 - Client-Server
 - Master-Slave
 
-## Requirements
+## 2. Requirements
 - Java Development Kit (JDK) version 8 or newer
 - Development Enviroment (IDE) such as Intellij IDEA, Eclipse or Visual Studio Code
 
-## 5. Contributing
+## 3. Contributing
 If you have ideas for improvements or new features, please submit a pull request or open an issue.
 Create your own fork of the project.
 Make a new branch for your feature or bug fix.
